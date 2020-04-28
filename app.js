@@ -1,5 +1,3 @@
-require("./models/KeyBindListener");
-
 // Initialize the listener
 let binder = new KeyBindListener();
 

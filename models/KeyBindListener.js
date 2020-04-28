@@ -59,5 +59,3 @@ class KeyBindListener {
         });
     }
 }
-
-module.exports = KeyBindListener;
